@@ -1,1 +1,3 @@
-dataset/water_potability.csv
+dataset/*.csv
+Simone.py
+.ipynb_checkpoints/*
